@@ -1,7 +1,6 @@
 #recruiting 'bump' script
 #This one requires you to keep it up 24/7. If not you will have to reinput your steam access code EVERY SINGLE TIME.
 
-#A lot of the script is copied and pasted from the RedditPoster so if you'd like the see some more detailed comments just go there and it'll probably apply here.
 from selenium import webdriver
 from selenium.webdriver.common.action_chains import ActionChains
 from webdriver_manager.chrome import ChromeDriverManager
